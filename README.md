@@ -6,3 +6,8 @@ A collections of util fns
 getRandomElement([1, 2, 3])
 // => 2 
 ```
+
+```
+GetUrlSlug() {}
+=> "something happens"
+```
